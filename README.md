@@ -9,7 +9,7 @@ Kecerdasan buatan atau Artificial Intelligence (AI) adalah simulasi dari kecerda
 # FINAL PROJECT AI
 Image Classification System (Web App)
 
-## Create Grup dan Start Collecting Data
+### Create Grup dan Start Collecting Data
 1. Membuat grup berisikan dua anggota dengan kelas yang sama
   * Dyah Rizky Octavia (201910370311319)
   * Navira Rahma Salsabila (201910370311334)
