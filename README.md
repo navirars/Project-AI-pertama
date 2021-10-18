@@ -9,7 +9,7 @@ Kecerdasan buatan atau Artificial Intelligence (AI) adalah simulasi dari kecerda
 # FINAL PROJECT AI
 Image Classification System (Web App)
 
-### Create Grup dan Start Collecting Data
+## Create Grup dan Start Collecting Data
 1. Membuat grup berisikan dua anggota dengan kelas yang sama
   * Dyah Rizky Octavia (201910370311319)
   * Navira Rahma Salsabila (201910370311334)
@@ -22,7 +22,7 @@ Image Classification System (Web App)
   - Background putih
   - Penamaan file: 001.jpg - 050.jpg
 
-### Continue Data the Collection Process dan upload github
+## Continue Data the Collection Process dan upload github
 - Membuat repository dalam github yang didalamnya terdapat folder "Dataset"
 - Buat 2 Sub folder di dalam folder "Dataset" dengan nama "Nangka" dan "Sirih" 
 - Setiap label berisi 50 foto dengan format yang telah ditentukan sebelumnya
