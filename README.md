@@ -13,16 +13,16 @@ Image Classification System (Web App)
 1. Membuat grup berisikan dua anggota dengan kelas yang sama
   * Dyah Rizqy Octavia (201910370311319)
   * Navira Rahma Salsabila (201910370311334)
-2. Mencari dan mengumpulkan dataset daun yang telah ditentukan (Daun Nangka dan Daun Sirih)
+2. Mencari dan mengumpulkan dataset daun yang telah ditentukan (Daun Nangka dan Daun Sirih) 
   Format foto:
   - Tiap daun terdapat 50 foto
   - Image daun diambil menggunakan kamera smartphone
-  - width x heigh: 1600 x 1200 px
-  - landscape
-  - background putih
-  - penamaan file: 001.jpg - 050.jpg
+  - Width x heigh: 1600 x 1200 px
+  - Landscape
+  - Background putih
+  - Penamaan file: 001.jpg - 050.jpg
 
 ### Continue Data the Collection Process dan upload github
 - Membuat repository dalam github yang didalamnya terdapat folder "Dataset"
-- Buat 2 Sub folder dalam folder "Dataset" dengan nama "Nangka" dan "Sirih" 
+- Buat 2 Sub folder di dalam folder "Dataset" dengan nama "Nangka" dan "Sirih" 
 - Setiap label berisi 50 foto dengan format yang telah ditentukan sebelumnya
