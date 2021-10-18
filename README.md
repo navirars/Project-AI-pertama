@@ -8,7 +8,11 @@ Kecerdasan buatan atau Artificial Intelligence (AI) adalah simulasi dari kecerda
 
 # FINAL PROJECT AI
 Image Classification System (Web App)
-A. Collecting Data
+A. Create Grup dan Start Collecting Data
+• Membuat grup berisikan dua anggota dengan kelas yang sama
+Dyah Rizqy Octavia (201910370311319)
+Navira Rahma Salsabila (201910370311334)
+• Pembagian 
 Dalam dataset terdapat 2 label yaitu daun nangka dan daun sirih
 Tiap label berisi 50 foto dengan ketentuan:
 - Image daun diambil menggunakan kamera smartphone
@@ -16,3 +20,8 @@ Tiap label berisi 50 foto dengan ketentuan:
 - landscape
 - background putih
 - 001.jpg - 050.jpg
+
+B. Continue Data the Collection Process dan upload github
+Didalam repository terdapat dataset
+Dalam dataset tersebut terdapat 2 label yaitu daun jeruk nipis dan daun sirih
+Setiap label berisi 50 foto dengan ukuran 1600 x 1200
