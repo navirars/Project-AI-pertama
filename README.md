@@ -11,7 +11,7 @@ Image Classification System (Web App)
 
 ## Create Grup dan Start Collecting Data
 1. Membuat grup berisikan dua anggota dengan kelas yang sama
-  * Dyah Rizqy Octavia (201910370311319)
+  * Dyah Rizky Octavia (201910370311319)
   * Navira Rahma Salsabila (201910370311334)
 2. Mencari dan mengumpulkan dataset daun yang telah ditentukan (Daun Nangka dan Daun Sirih) 
   Format foto:
