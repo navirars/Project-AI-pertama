@@ -15,8 +15,8 @@ Image Classification System (Web App)
   * Navira Rahma Salsabila (201910370311334)
 2. Mencari dan mengumpulkan dataset daun yang telah ditentukan (Daun Nangka dan Daun Sirih) 
   Format foto:
-  - Tiap daun terdapat 50 foto
   - Image daun diambil menggunakan kamera smartphone
+  - Tiap daun terdapat 50 foto
   - Width x heigh: 1600 x 1200 px
   - Landscape
   - Background putih
