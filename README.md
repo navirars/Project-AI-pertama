@@ -6,7 +6,7 @@ Kecerdasan buatan atau Artificial Intelligence (AI) adalah simulasi dari kecerda
 3. Think rationally, sistem yang mampu berpikir secara rasional.
 4. Act rationally, sistem yang mampu bertindak secara rasional.
 
-# FINAL PROJECT AI
+### FINAL PROJECT AI
 Image Classification System (Web App)
 1. Create Grup dan Start Collecting Data
 - Membuat grup berisikan dua anggota dengan kelas yang sama
