@@ -23,6 +23,6 @@ Image Classification System (Web App)
   - Penamaan file: 001.jpg - 050.jpg
 
 ## Continue Data the Collection Process dan upload github
-- Membuat repository dalam github yang didalamnya terdapat folder "Dataset"
-- Buat 2 Sub folder di dalam folder "Dataset" dengan nama "Nangka" dan "Sirih" 
-- Setiap label berisi 50 foto dengan format yang telah ditentukan sebelumnya
+1. Membuat repository dalam github yang didalamnya terdapat folder "Dataset"
+2. Buat 2 Sub folder di dalam folder "Dataset" dengan nama "Nangka" dan "Sirih" 
+3. Setiap label berisi 50 foto dengan format yang telah ditentukan sebelumnya
