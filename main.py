@@ -2,8 +2,8 @@ import numpy as np
 import cv2
 import glob
 
-img_dir1 = "Dataset/NANGKA/"
-img_dir2 = "Dataset/SIRIH/"
+img_dir1 = "Dataset/nangka/"
+img_dir2 = "Dataset/sirih/"
 
 ext = ['jpg']
 
