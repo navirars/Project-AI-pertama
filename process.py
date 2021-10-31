@@ -22,11 +22,11 @@ for img1 in images1:
     img_adjusted1 = cv2.addWeighted(img1, 1.5, np.zeros(img1.shape, img1.dtype), 0, -1)
     img_name1 = "Dataset/nangka-contrast/" + str(x) + ".jpg"
     cv2.imwrite(img_name1, img_adjusted1)
-    x += 1
+    x+=1
 
 y = 1
 for img2 in images2:
     img_adjusted2 = cv2.addWeighted(img2, 1.5, np.zeros(img2.shape, img2.dtype), 0, 5)
     img_name2 = "Dataset/sirih-contrast/" + str(y) + ".jpg"
     cv2.imwrite(img_name2, img_adjusted2)
-    y += 1
+    y+=1
