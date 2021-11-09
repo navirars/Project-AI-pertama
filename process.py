@@ -19,7 +19,7 @@ images2 = [cv2.imread(file2) for file2 in files2]
 #adjust contrast to all of them
 x = 1
 for img1 in images1:
-    img_adjusted1 = cv2.addWeighted(img1, 1.5, np.zeros(img1.shape, img1.dtype), 0, -60)
+    img_adjusted1 = cv2.addWeighted(img1, 1.5, np.zeros(img1.shape, img1.dtype), 0, -1)
     img_name1 = "Dataset/update_nangka/" + str(x) + ".jpg"
     cv2.imwrite(img_name1, img_adjusted1)
     x+=1
