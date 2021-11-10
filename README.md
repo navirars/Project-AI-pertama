@@ -26,3 +26,9 @@ Image Classification System (Web App)
 1. Membuat repository dalam github yang didalamnya terdapat folder "Dataset"
 2. Buat 2 Sub folder di dalam folder "Dataset" dengan nama "Nangka" dan "Sirih" 
 3. Setiap label berisi 50 foto dengan format yang telah ditentukan sebelumnya
+
+## Image Classification with ANN
+Artificial Neural Networ (ANN) adalah atau jaringan syaraf tiruan adalah jaringan dari sekelompok unit pemroses kecil yang dimodelkan berdasarkan perilaku jaringan syaraf manusia.
+
+## Image Classification with CNN
+Convolutional Neural NetworkFile (CNN) adalah salah satu jenis neural network yang biasa digunakan pada data image. CNN bisa digunakan untuk mendeteksi dan mengenali object pada sebuah image.
